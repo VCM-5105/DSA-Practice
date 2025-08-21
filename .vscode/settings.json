@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    },
+    "accessibility.hideAccessibleView": false,
+    "explorer.excludeGitIgnore": false,
+    "outline.icons": true,
+    "C_Cpp.errorSquiggles": "enabled"
+}

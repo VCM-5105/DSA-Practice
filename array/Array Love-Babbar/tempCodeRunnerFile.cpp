@@ -1,0 +1,1 @@
+cout<<"The pivot element present at "<<findPivot(arr,5)<<"th index"<<endl;
